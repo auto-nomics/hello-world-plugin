@@ -1,6 +1,6 @@
 schema_version = 1
 plugin_name = "hello-world"
-status = "publishing"
+status = "published"
 panels = []
 
 [installation]
@@ -8,6 +8,8 @@ panels = []
 [lifecycle]
 request_ids = ["R-bd10d02cd5386e2d"]
 rationale = "Create the canonical fork-and-update reference plugin."
+remote = "git@github.com:auto-nomics/hello-world-plugin.git"
+published_commit = "3ff0ae4a76b1bdbe9878bfb8c1e94c518fe3e070"
 latest_report = ".rsi/reports/attempt-2.json"
 
 [image]
