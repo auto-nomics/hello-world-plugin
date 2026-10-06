@@ -8,7 +8,7 @@ panels = []
 [lifecycle]
 request_ids = ["R-bd10d02cd5386e2d"]
 rationale = "Create the canonical fork-and-update reference plugin."
-latest_report = ".rsi/reports/attempt-1.json"
+latest_report = ".rsi/reports/attempt-2.json"
 
 [image]
 reference = "docker.io/library/alpine@sha256:ce64758a109eb420d874a118f87920e625e12d3634e03b4a5573fd9f6e5d3507"

@@ -1,0 +1,32 @@
+{
+  "report_id": "attempt-2",
+  "plugin_name": "hello-world",
+  "created_at": 1791312961,
+  "overall": "pass",
+  "gates": [
+    {
+      "name": "manifest",
+      "status": "pass"
+    },
+    {
+      "name": "policy",
+      "status": "pass"
+    },
+    {
+      "name": "kind_collision",
+      "status": "pass"
+    },
+    {
+      "name": "script_static",
+      "status": "pass"
+    },
+    {
+      "name": "registry_compile",
+      "status": "pass"
+    },
+    {
+      "name": "secret_scan",
+      "status": "pass"
+    }
+  ]
+}
