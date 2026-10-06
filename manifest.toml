@@ -1,6 +1,6 @@
 schema_version = 1
 plugin_name = "hello-world"
-status = "publishing"
+status = "updating"
 panels = []
 
 [installation]
